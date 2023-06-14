@@ -1,0 +1,18 @@
+body{
+   margin: 0;
+   padding: 0;
+   background-image: url(https://klike.net/uploads/posts/2019-11/1574605225_2.jpg);
+}
+h1{
+   color: blue;
+   width: 450px;
+   margin: 20px auto;
+}
+h2{
+   margin: -10px auto;
+
+}
+h4{
+   margin: 0 auto;
+   color: black;
+}
